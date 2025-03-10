@@ -4,13 +4,15 @@
     {
       "domain": [
         "weixinsxy.com",
-        "wxapp.tc.qq.com"
+        "wxapp.tc.qq.com",
+        ".telecom.gx.cn"
       ]
     },
     {
       "domain_suffix": [
         ".weixinsxy.com",
-        ".wxapp.tc.qq.com"
+        ".wxapp.tc.qq.com",
+        ".telecom.gx.cn"
       ]
     },
     {
@@ -22,7 +24,8 @@
     {
       "ip_cidr": [
         "129.226.3.47/32",
-        "162.62.163.63/32"
+        "162.62.163.63/32",
+        "134.195.17.108/32"
       ]
     }
   ]
